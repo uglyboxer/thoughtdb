@@ -48,4 +48,6 @@ MANIFEST
 # Per-project virtualenvs
 .venv*/
 
-secret_consts.txt
+secret_consts.txt.vscode
+secret_consts.py
+.vscode/
